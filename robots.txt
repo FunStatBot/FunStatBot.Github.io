@@ -1,9 +1,4 @@
 User-agent: *
-Disallow: /private/
-Disallow: /admin/
-Disallow: /login/
-
-# Разрешаем доступ ко всем остальным страницам
 Allow: /
 
-Sitemap: https://funstat.online/sitemap.xml
+Sitemap: https://funstat.link/sitemap.xml
